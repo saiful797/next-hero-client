@@ -6,7 +6,6 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <p>Hello Next Hero</p>
         <a href="https://github.com/saiful797" target="_blank">Click Me!</a>
-        {/* create a button */}
         <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
               CLICK ME!
         </button>
