@@ -8,7 +8,7 @@ export default function Home() {
         <a href="https://github.com/saiful797" target="_blank">Click Me!</a>
         {/* create a button */}
         <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-          Button
+              CLICK ME!
         </button>
       </main>
     </div>
